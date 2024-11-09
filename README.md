@@ -1,2 +1,2 @@
-# WHO-TDR-THINGS
+# WHO-TDR-Things
 TDR related items
